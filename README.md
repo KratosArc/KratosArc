@@ -19,7 +19,9 @@ for LLMs, RAG pipelines, and GenAI applications.
 - 📚 Learning → **ML Fundamentals · Scikit-learn · Statistics**
 - 🔭 Building toward → **RAG Chatbot · LangChain Agents · GenAI APIs**
 - 🎯 Open soon for → **GenAI Developer | ML Engineer | Data Scientist**
-- 📫 Contact → see socials below
+
+- 📫 Contact → [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiveshwarrathore/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiveshwarrathore@gmail.com)
 
 ---
 
@@ -65,8 +67,7 @@ for LLMs, RAG pipelines, and GenAI applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiveshwarrathore/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiveshwarrathore@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917807454892)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aaashuux/)
+
 
 ---
 
