@@ -1,7 +1,7 @@
 <div align="center">
 
 # Jiveshwar Singh Rathore 
-### Generative AI Engineer in Progress | ML · LLMs · RAG · LangChain
+### Machine Learning and AI Engineer | Transitioning into Generative AI  Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jiveshwarrathore&color=blueviolet&style=flat-square)
 
