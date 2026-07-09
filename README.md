@@ -12,13 +12,12 @@
 ## 👨‍💻 About Me
 
 I'm an **AI/ML learner** on an intensive journey to become a
-**Generative AI Engineer** — currently mastering ML fundamentals,
-data analysis, and Deep Learning to build a strong foundation
+**Generative AI Engineer** — currently mastering ML fundamentals, and Deep Learning to build a strong foundation
 for LLMs, RAG pipelines, and GenAI applications.
 
-- 📚 Learning → **ML Fundamentals · Scikit-learn · Statistics**
+- 📚 Learned → **ML Fundamentals · Scikit-learn · Statistics**
 - 🔭 Building toward → **RAG Chatbot · LangChain Agents · GenAI APIs**
-- 🎯 Open soon for → **GenAI Developer | ML Engineer | Data Scientist**
+- 🎯 Open  for → **GenAI Engineer | ML Engineer | Data Scientist**
 
 - 📫 Contact → [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiveshwarrathore/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiveshwarrathore@gmail.com)
@@ -36,15 +35,15 @@ for LLMs, RAG pipelines, and GenAI applications.
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### 🔄 Currently Learning
+### ✅ Mastered
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### 📅 Coming Soon
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### 📅 Currently Learning
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
