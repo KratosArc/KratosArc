@@ -55,10 +55,10 @@ for LLMs, RAG pipelines, and GenAI applications.
 ## 📍 Roadmap
 ```text
 ✅ Phase 1  →  Python · Pandas · NumPy · SQL · Power BI
-🔄 Phase 2  →  ML Fundamentals · Scikit-learn · Statistics
-⏳ Phase 3  →  Deep Learning · TensorFlow · PyTorch
-⏳ Phase 4  →  LLMs · LangChain · RAG · HuggingFace
-⏳ Phase 5  →  MLOps · FastAPI · Docker · Cloud
+✅ Phase 2  →  ML Fundamentals · Scikit-learn · Statistics
+✅ Phase 3  →  Deep Learning · TensorFlow · PyTorch
+✅ Phase 4  →  LLMs · LangChain · RAG · HuggingFace
+✅ Phase 5  →  MLOps · FastAPI · Docker · Cloud
 ```
 
 ---
